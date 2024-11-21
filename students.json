@@ -1,0 +1,14 @@
+[
+    {
+        "studentId": "0",
+        "name": "Dawid Szczawinski",
+        "age": 22,
+        "major": "Informatyka"
+    },
+    {
+        "studentId": "1",
+        "name": "Jan Kowalski",
+        "age": 21,
+        "major": "Budownictwo"
+    }
+]
